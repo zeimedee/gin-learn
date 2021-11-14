@@ -1,6 +1,6 @@
 name: Test Endpoints
 
-on: [push, pull_request ]
+on: [push, pull_request]
 
 jobs:
   Test:
